@@ -8,7 +8,7 @@ function About() {
       <h2 className={`${baseCls}__title`}>About</h2>
       <div className={`${baseCls}__content`}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/me.jpg")}
           alt="Me sitting with a laptop"
           className={`${baseCls}__about-image`}
         />

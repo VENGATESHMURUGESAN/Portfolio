@@ -4,7 +4,7 @@
     "organisation": "NextSphere Technologies | A Grid Dynamics Company",
     "startDate": "Jan, 2022",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Developed and maintained couple of a Payroll Management system using React JS and Redux.", "Collaborated in a cross-functional Agile team, with daily stand-ups, and utilized Agile project management tools like Jira for user story tracking, task prioritization, and progress monitoring.","Achieved over 85% code coverage using Jest for unit testing to ensure code reliability and quality."],
     "imageSrc": "history/nextsphere.png"
   },
   {
@@ -12,7 +12,7 @@
     "organisation": "Tata Consultancy Services",
     "startDate": "Jun, 2021",
     "endDate": "July, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "experiences": ["I have successfully undertaken corporate website development projects in the past, demonstrating my proficiency in utilizing React. These projects involved crafting and maintaining web pages for diverse corporate clients.", "My responsibilities included ensuring that these websites not only met the aesthetic standards but also excelled in terms of functionality and performance."],
     "imageSrc": "history/tcs.png"
   }
 ]

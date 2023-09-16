@@ -12,7 +12,7 @@ export const ProjectCard = ({
         <a href={demo} className={`${baseCls}__link`}>
           Demo
         </a>
-        <a href={source} className={`${baseCls}__link`}>
+        <a href={source} className={`${baseCls}__link`} target="_blank">
           Source
         </a>
       </div>
