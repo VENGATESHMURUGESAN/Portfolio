@@ -33,6 +33,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 37px;
+    align-items: center;
     @media screen and (max-width: 830px) {
       width: 100%;
       flex-direction: row;
@@ -93,6 +94,10 @@
 
   &__history-item img {
     width: 120px;
+    @media screen and (max-width: 830px) {
+      width: 50px;
+   
+    }
   }
 
   &__history-item-details {

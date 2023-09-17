@@ -1,18 +1,19 @@
 [
-  {
-    "title": "Portfolio",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project created to showcase my skills and projects. It was built using React, Sass, and JavaScript to create a dynamic and visually appealing portfolio website.",
-    "skills": ["React", "Sass", "Javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/VENGATESHMURUGESAN/Portfolio"
-  },
+  
   {
     "title": "TODO Project",
     "imageSrc": "projects/project.png",
-    "description": "This project is a practical learning experience, where I've been using the latest languages to build a to-do list app with add and delete functionality.",
+    "description": "Practical learning experience, where I build to-do list app with add and delete functionality.",
     "skills": ["React", "TypeScript", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
-  }
+  },
+  {
+      "title": "Portfolio",
+      "imageSrc": "projects/project.png",
+      "description": "It was built using React, Sass, and JavaScript to create a dynamic and visually appealing portfolio.",
+      "skills": ["React", "Sass", "Javascript"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/VENGATESHMURUGESAN/Portfolio"
+    }
 ]

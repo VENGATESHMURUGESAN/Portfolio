@@ -10,7 +10,7 @@ export const Contact = () => {
         <li className={`${baseCls}__link`}>
           <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
           <a href="mailto:vengateshmurugesan@gmail.com">
-            vengateshmurugesan@gmail.com
+            Drop me mail
           </a>
         </li>
         <li className={`${baseCls}__link`}>

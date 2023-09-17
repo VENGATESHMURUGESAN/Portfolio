@@ -32,16 +32,6 @@ function About() {
               </p>
             </div>
           </li>
-          {/* <li className={`${baseCls}__about-item`}>
-            <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
-            <div className={`${baseCls}__about-item-text`}>
-              <h3>UI Designer</h3>
-              <p>
-                I have designed multiple landing pages and have created design
-                systems as well
-              </p>
-            </div>
-          </li> */}
         </ul>
       </div>
     </section>
